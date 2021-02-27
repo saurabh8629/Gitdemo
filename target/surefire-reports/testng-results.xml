@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-24T22:56:58 IST" name="Suite" finished-at="2021-01-24T22:56:58 IST" duration-ms="35">
+    <groups>
+    </groups>
+    <test started-at="2021-01-24T22:56:58 IST" name="Test" finished-at="2021-01-24T22:56:58 IST" duration-ms="35">
+      <class name="mavenproj.maven1java.runtest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:mavenproj.maven1java.runtest@75f9eccc]" started-at="2021-01-24T22:56:58 IST" name="BrowserAutomation" finished-at="2021-01-24T22:56:58 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="ElementsUi()[pri:0, instance:mavenproj.maven1java.runtest@75f9eccc]" started-at="2021-01-24T22:56:58 IST" name="ElementsUi" finished-at="2021-01-24T22:56:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- mavenproj.maven1java.runtest -->
+      <class name="mavenproj.maven1java.truetest">
+        <test-method signature="IosApps()[pri:0, instance:mavenproj.maven1java.truetest@4de5031f]" started-at="2021-01-24T22:56:58 IST" name="IosApps" finished-at="2021-01-24T22:56:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApps -->
+        <test-method signature="NativeappAndroid()[pri:0, instance:mavenproj.maven1java.truetest@4de5031f]" started-at="2021-01-24T22:56:58 IST" name="NativeappAndroid" finished-at="2021-01-24T22:56:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeappAndroid -->
+      </class> <!-- mavenproj.maven1java.truetest -->
+      <class name="mavenproj.maven1java.bigtest">
+        <test-method signature="PostJira()[pri:0, instance:mavenproj.maven1java.bigtest@52aa2946]" started-at="2021-01-24T22:56:58 IST" name="PostJira" finished-at="2021-01-24T22:56:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method signature="deletetwitter()[pri:0, instance:mavenproj.maven1java.bigtest@52aa2946]" started-at="2021-01-24T22:56:58 IST" name="deletetwitter" finished-at="2021-01-24T22:56:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+      </class> <!-- mavenproj.maven1java.bigtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
